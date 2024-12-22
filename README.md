@@ -1,0 +1,1 @@
+Create a research assistant while experimenting with the LlamaIndex framework.
